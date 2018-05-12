@@ -1,0 +1,40 @@
+_repo: Ethnology-of-the-Ungava-District-Hudson-Bay-TerritoryGovernment-Printing-Office-Washington-18__39659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turner, Lucien M. (Lucien McShan)
+    alias: Turner, L. M. (Lucien McShan)
+    gutenberg_agent_id: '40136'
+    url: http://www.gutenberg.org/2009/agents/40136
+  editor:
+    agent_name: Murdoch, John
+    aliases:
+    - Murdoch, J. (John)
+    - Murdock, John
+    birthdate: 1852
+    deathdate: 1925
+    gutenberg_agent_id: '40137'
+    url: http://www.gutenberg.org/2009/agents/40137
+description: ''
+gutenberg_issued: '2012-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inuit -- Québec (Province) -- Ungava Peninsula -- Folklore'
+- !lcsh 'Indians of North America -- Québec (Province) -- Ungava Peninsula -- Folklore'
+- !lcsh 'Inuit -- Québec (Province) -- Ungava Peninsula -- Social life and customs'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Québec (Province) -- Ungava Peninsula -- Social
+  life and customs'
+title: "Ethnology of the Ungava District, Hudson Bay Territory\r\nEleventh Annual\
+  \ Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution,\
+  \ 1889-1890, Government Printing Office, Washington, 1894, pages 159-350"
+url: http://www.gutenberg.org/ebooks/39659
